@@ -1,6 +1,4 @@
-# La-Petite-Princess-Entangled-Circuits
-
-# 🌌 Quantum Circuits: An Interactive Journey into Quantum Computing
+# La Petite Princess Entangled Circuits: An Interactive Journey into Quantum Computing
 
 ### A technical and visual learning guide for the next generation of quantum scientists, engineers, mathematicians, and innovators.
 
