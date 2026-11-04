@@ -2,6 +2,8 @@
 
 ### A technical and visual learning guide for the next generation of quantum scientists, engineers, mathematicians, and innovators.
 
+![](https://github.com/lucylow/La-Petite-Princess---Entangled-Circuits/blob/main/La%20Petite%20Princess%20-Quantum%20Entanglement.jpg?raw=true)
+
 ![Quantum Computing](https://img.shields.io/badge/Field-Quantum%20Computing-7950F2)
 ![Learning](https://img.shields.io/badge/Focus-STEM%20Education-00A6A6)
 ![Documentation](https://img.shields.io/badge/Documentation-GitHub%20README-blue)
